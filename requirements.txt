@@ -1,13 +1,13 @@
-numpy
+python-dotenv
 pandas
-matplotlib
-seaborn
+numpy
+pymongo
+certifi
+pymongo[srv]
 scikit-learn
-ipykernel
-catboost
-xgboost
-dill
-flask
-flask_cors
-lime
-#-e .
+mlflow
+pyaml
+dagshub
+fastapi
+uvicorn
+python-multipart
